@@ -1,2 +1,2 @@
 # design-agency-landing-page
-creative design agency landing page using HTML and CSS.
+This is a responsive landing page for a creative design agency using HTML and CSS.
